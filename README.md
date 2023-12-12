@@ -1,4 +1,4 @@
-## Welcome to Draggodra/Draggador/Draggadro's website (made using GitHub Pages)
+## Welcome to JéJé(@draggador)'s website, made using GitHub Pages.
 
 We can use the [editor on GitHub](https://github.com/draggador/draggador.github.io/edit/main/README.md) to maintain and preview the content for our website in Markdown files.
 
