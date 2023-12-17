@@ -1,7 +1,8 @@
 ## Welcome to JéJé(@draggador)'s website, made using GitHub Pages.
 
-We can use the [editor on GitHub](https://github.com/draggador/draggador.github.io/edit/main/README.md) to maintain and preview the content for our website in Markdown files.
+([Check out the namesake respository of this profile's owner.](https://draggador.github.io/draggador/))
 
+We can use the [editor on GitHub](https://github.com/draggador/draggador.github.io/edit/main/README.md) to maintain and preview the content for our website in Markdown files.
 Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in our Markdown files.
 
 ### Markdown
@@ -35,3 +36,4 @@ Our Pages site will use the layout and styles from the Jekyll theme we have sele
 ### Support or Contact
 
 Having trouble with Pages? Check out their [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help us sort it out.
+
