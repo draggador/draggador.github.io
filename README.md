@@ -1,6 +1,6 @@
 ## Welcome to JéJé(@draggador)'s website, made using GitHub Pages.
 
-([Check out the namesake respository of this profile's owner.](https://draggador.github.io/draggador/))
+([Check out the namesake respository of this GitHub profile's owner.](https://draggador.github.io/draggador/))
 
 We can use the [editor on GitHub](https://github.com/draggador/draggador.github.io/edit/main/README.md) to maintain and preview the content for our website in Markdown files.
 Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in our Markdown files.
